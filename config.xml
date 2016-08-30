@@ -5,7 +5,7 @@
         id        = "com.sistemasyformacion.mimoodle"
         versionCode = "2010"
         version   = "2.9">
-    <name>SyF Moodle</name>
+    <name>SyF Moodle Mobile</name>
 
     <description>
         Moodle Mobile Official SyF
