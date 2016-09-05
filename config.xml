@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.sistemasyformacion.mimoodle"
+        id        = "org.no-ip.syf.mimoodle"
         versionCode = "2010"
         version   = "2.9">
-    <name>SyF Moodle Mobile</name>
+    <name>UCO Virtual</name>
 
     <description>
-        Moodle Mobile Official SyF
+        Plataforma Movil Oficial Universidad Catolica de Oriente
     </description>
 
     <author href="http://sistemasyformacion.com" email="jmartinez@sistemasyformacion.com">
